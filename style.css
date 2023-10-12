@@ -1,0 +1,102 @@
+.logo img{
+    width: 50px;}
+
+.logo{
+  text-align: center;}
+
+.navbar{
+    display: flex;
+    text-align: center;
+}
+.navbar a{
+    margin-left: 50px;
+    color: antiquewhite;
+    font-size: 20px;
+    font-kerning: auto;
+    padding: 1px;
+}
+
+.navbar a:hover{
+    color: rgba(44, 161, 174, 0.672);
+}
+.image-container{
+    position: relative;
+    display: inline-block;
+}
+.image-container img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.overlay-text{
+    position: absolute;
+    top: 5%;
+    left: 70%;
+
+}
+
+.myclass{
+    text-align: center;
+}
+.overlay-text p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.colortxt{
+    font-size: 60px;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(221, 213, 120);
+}
+.iphone15 h1{
+    font-family: 'Times New Roman', Times, serif;
+text-align: center;}
+
+.iphone15 p{
+    text-align: center;
+}
+.iphone15{
+    align-items: center;
+
+}
+.projects{
+    margin: 0 auto;
+    margin: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.projectrow{
+    display: flex;
+}
+.projectitems{background-color: rgb(145, 147, 146);
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+.projectitems h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 5px;
+}
+.projectitems p{
+    
+}
+.projectitems img{
+    border-radius: 10px;
+}
+
+.contact{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contactrow img{
+    width: 70px;
+  
+}
+.logo img{
+    width: 50px;}
+   
