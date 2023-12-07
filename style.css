@@ -162,3 +162,261 @@ nav a:hover{
     margin: 10px 0 0;
     color: #ffffff;
 }
+
+body .work1 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work1 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work1 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+}
+
+.work1 p { width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    color: #989898;
+}
+
+.imageswork1{
+    padding: 50px;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+
+
+
+body .work2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work2 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work2 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.work2 p { width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+    color:  #989898;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.artwork {
+    padding: 20px;
+}
+
+.artwork img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 0%;
+}
+
+
+
+body .work3 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work3 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work3 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.work3 p {width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+    color: #989898;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.artwork3 {
+    padding: 20px;
+}
+
+.artwork3 img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 25%;
+}
+
+
+
+body .work4 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work4 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work4 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.work4 p {
+    width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #989898;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.artwork4 {
+    padding: 30px;
+}
+
+.artwork4 img {
+    width: 70%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 12%;
+    padding: 40px;
+}
+
+
+body .work5 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work5 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work5 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.work5 p {width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #989898;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.artwork5 {
+    padding: 20px;
+}
+
+.artwork5 img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 25%;
+    padding: 30px;
+}
+
+
+body .work6 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+}
+
+header .work6 {
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+.work6 h1 {
+    margin-top: 10%;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.work6 p {width: 50%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:  #989898;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.artwork6 {
+    padding: 20px;
+}
+
+.artwork6 img {
+    width: 70%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 14%;
+    padding: 30px;
+}
+
+
+.back-button {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10%;
+}
+
+.back-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.back-button a:hover {
+    background-color: #555;
+}
