@@ -126,6 +126,7 @@ nav a:hover{
 .contact {
     background-color:  rgb(22, 22, 22);
     padding: 50px 0;
+   
 }
 
 a{
@@ -135,30 +136,36 @@ a{
 .contact h2 {
     font-size: large;
     color: #ffffff;
-    text-align: center;
+  
+    margin-left: 97px;
 }
 
 .contact-info {
     display: flex;
-    justify-content: center;
+   
     margin-top: 20px;
+    margin-left: 0px;
 }
 
 .contact-item {
     text-align: center;
     margin: 0 20px;
+    margin-left: 0px;
 }
 
 .contact-item h3 {
-    font-size: small;
+    font-size: medium;
     color: #ffffff;
+    margin-left: 0px;
 }
 
 .contact-item p {
-    font-size: small;
+    font-size: medium;
     margin: 10px 0 0;
     color: #ffffff;
+    margin-left: 0px;
 }
+
 
 body .work1 {
     margin: 0;
@@ -181,14 +188,14 @@ header .work1 {
 .work1 p { width: 50%;
     height: 50%;
     margin-top: 5%;
-    margin-bottom: 5%;
-
+    margin-bottom: 1%;
+margin-left: 24.5%;
     color: #989898;
 }
 
 .imageswork1{
     padding: 50px;
-    margin-top: 3%;
+    margin-top: 1%;
     margin-left: 3%;
 }
 
@@ -218,7 +225,7 @@ header .work2 {
     height: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
-   
+    margin-left: 24.5%;
     color:  #989898;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -259,7 +266,7 @@ header .work3 {
     height: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
-   
+    margin-left: 24.5%;
     color: #989898;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -301,6 +308,7 @@ header .work4 {
     height: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 24.5%;
     color: #989898;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -341,6 +349,7 @@ header .work5 {
     height: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 24.5%;
     color: #989898;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -381,6 +390,7 @@ header .work6 {
     height: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 24.5%;
     color:  #989898;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
